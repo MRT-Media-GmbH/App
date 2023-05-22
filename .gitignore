@@ -1,0 +1,10 @@
+# Ignore compiled code
+*.pyc
+*.class
+
+# Ignore logs and temporary files
+logs/
+temp/
+
+# Ignore sensitive information
+config.ini
